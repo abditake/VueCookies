@@ -12,5 +12,17 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.1",
     "vite": "^3.0.1"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abditake/VueCookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abditake/VueCookies/issues"
+  },
+  "homepage": "https://github.com/abditake/VueCookies#readme"
 }
