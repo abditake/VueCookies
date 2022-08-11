@@ -1,0 +1,124 @@
+body {
+  background-color: #3EA9AD;
+  }
+
+nav img {
+  border-radius: 20px;
+  background-color: #66F4FA;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+nav h2 {
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  /* header/highlight font */
+  font-size: 80px;
+  color: #66F4FA;
+}
+
+img {
+  border: 5px solid salmon;
+  border-radius: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  /* header/highlight font */
+  font-size: 100px;
+  color: #66F4FA;
+  }
+
+h2 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 40px;
+  color: #66F4FA;
+  padding: 40px;
+  text-shadow: 2px 2px black;
+}
+
+figcaption {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* text font */
+  font-weight: bold;
+  color: black;
+  width: 300px;
+  padding: 20px;
+}
+
+figure {
+  display: flex;
+  padding: 15px;
+}
+
+#lima, #paris, #seattle, #tokyo, #dubai, #tshirt {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  align-items: flex-end;
+}
+
+table {
+  background-color: #66F4FA;
+  border-color: salmon;
+  border-width: 2px;
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+th {
+  font-weight: bold;
+  vertical-align: middle;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* data font */
+  padding: 15px;
+}
+
+td {
+  border-color: salmon;
+  border-width: 2px;
+  border-style: dashed;
+  padding: 15px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: teal;
+  width: 15px;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 55%;
+}
+
+form {
+  text-align: center;
+}
+
+legend {
+  font-family: 'Fredoka One', cursive;
+  font-size: 30px;
+  color: #00f7ff;
+  margin: 20px;
+  margin-left: calc(50% - 60px - 20px);
+  text-shadow: 2px 2px black;
+}
+
+label {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+button {
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
